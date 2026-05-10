@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: PACE-HPLC PFT Benchmark Repository
+message: If you use this repository, please cite the associated paper and this repository release.
+type: dataset
+authors:
+  - family-names: Zhang
+    given-names: Kaizhi
+repository-code: <REPOSITORY_URL>
+license: MIT
