@@ -1,0 +1,34 @@
+{
+  "dataset_name": "synthetic_identifiability_dataset_v2b",
+  "source": "G:\\PACE\\pythonProject\\.venv\\Lib\\external_benchmark_data\\synthetic_identifiability_dataset_v2\\synthetic_identifiability_dataset_v2.csv",
+  "label_semantics": "Level-3 conditional delta-Rrs decomposition feasibility with non-absolute regime treatment",
+  "decision_threshold": 0.55,
+  "n_rows": 8000,
+  "allowed_rate": 0.411375,
+  "allowed_rate_by_regime": {
+    "clear": 0.7296678121420389,
+    "coastal": 0.0018738288569643974,
+    "transition": 0.05063913470993117
+  },
+  "mean_allowed_soft_by_regime": {
+    "clear": 0.7166013907486306,
+    "coastal": 0.09452534234630935,
+    "transition": 0.18280568706102054
+  },
+  "allowed_rate_by_type": {
+    "clear_ambiguous": 0.8037914691943128,
+    "clear_feasible": 0.9797546012269939,
+    "clear_hard_pair": 0.46482758620689657,
+    "coastal_hard_negative": 0.002843601895734597,
+    "degenerate_pair": 0.169,
+    "external_like_shift": 0.03492063492063492,
+    "hard_pair": 0.21337579617834396,
+    "low_margin": 0.3981264637002342,
+    "transition_hard_negative": 0.06701030927835051
+  },
+  "split_counts": {
+    "train": 6400,
+    "test": 800,
+    "val": 800
+  }
+}
