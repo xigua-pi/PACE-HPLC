@@ -4,6 +4,6 @@ message: If you use this repository, please cite the associated paper and this r
 type: dataset
 authors:
   - family-names: Zhang
-    given-names: Kaizhi
+    given-names: Kangzhe
 repository-code: <REPOSITORY_URL>
 license: MIT
